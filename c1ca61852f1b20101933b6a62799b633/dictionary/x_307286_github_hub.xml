@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Hub" max_length="40" name="x_307286_github_hub" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="70" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ShortDescription" max_length="40" name="shortdescription" type="string"/>
+    </element>
+</database>

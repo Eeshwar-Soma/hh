@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_307286_github_hub">x_307286_github_hub</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HUB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-02 03:07:33</sys_created_on>
+        <sys_id>5f4bedc92f1b20101933b6a62799b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HUB</sys_name>
+        <sys_package display_value="GitHub" source="x_307286_github">c1ca61852f1b20101933b6a62799b633</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">c1ca61852f1b20101933b6a62799b633</sys_scope>
+        <sys_update_name>sys_number_5f4bedc92f1b20101933b6a62799b6ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 03:07:33</sys_updated_on>
+    </sys_number>
+</record_update>
